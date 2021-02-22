@@ -47,15 +47,6 @@
         }
       },
       {
-        "package": "sportmonks-kit",
-        "repositoryURL": "https://github.com/nihedr9/sportmonks-kit.git",
-        "state": {
-          "branch": null,
-          "revision": "631922c63ff5414bddbc3d795190054e166f5c83",
-          "version": "0.0.4"
-        }
-      },
-      {
         "package": "swift-backtrace",
         "repositoryURL": "https://github.com/swift-server/swift-backtrace.git",
         "state": {

@@ -10,7 +10,8 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/vapor/vapor.git", from: "4.40.0"),
-        .package(url: "https://github.com/nihedr9/sportmonks-kit.git", from: "0.0.2"),
+//        .package(url: "https://github.com/nihedr9/sportmonks-kit.git", from: "0.0.2"),
+        .package(path: "../sportmonks-kit")
     ],
     targets: [
         .target(
